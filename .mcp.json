@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dreamwork": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dreamworkhq/mcp"
+      ],
+      "env": {}
+    }
+  }
+}
